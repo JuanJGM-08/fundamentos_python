@@ -1,0 +1,5 @@
+print("!Hola, Mundo")
+print("Juan Jose Giraldo")
+print("Monsalve") 
+print ("doble funcion en 1 linea")
+print ("diferente linea")
